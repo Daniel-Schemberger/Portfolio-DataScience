@@ -1,6 +1,6 @@
 # Portfolio
 
-Esta repositório é dedicado a criação do meu portfolio em ciência de dados. O portfolio conta com projetos gerais, desde webscrapping, análise e visualização de dados até projetos completos de machine learning com os principais algorítmos e testes.
+Esta repositório é dedicado a criação do meu portfolio em ciência de dados. O portfolio conta com projetos gerais, desde webscrapping, análise e visualização de dados até projetos completos de machine learning e criação de aplicações voltadas a ciência de dados!
 
 ---
 ### Segmentação de Dados:
@@ -28,3 +28,39 @@ Devido a desatualizações da biblioteca pycaret (que automatiza os processos de
 link da aplicação: https://app-rfv-wc1j.onrender.com
 
 ---
+
+### Projetos EBAC:
+
+Esta pasta armazena os principais projetos desenvolvidos ao longo do curso Centista de Dados da EBAC.
+
+ - Projeto Final - Python para Análise de Dados (*projeto-final.ipynb*)
+
+Este projeto é a conclusão do curso 'Python para Análise de Dados' da EBAC. Nele é realizado todas etapas de análise de dados, partindo do carregamento dos dados, limpeza, análise exploratória e visualização.
+
+ - Projeto Final - SQL para Análise de Dados (*Projeto FinalSQL.ipynb*)
+
+Este projeto é a conclusão do curso 'SQL para Análise de Dados' da EBAC. O projeto foi desenvolvido utilizando uma base de dados armazenados com AWS S3 e as queries foram realizadas utilizando Amazon Athena.
+
+- Projeto 1 - Classificação com Decision Tree ('*Projeto-1.ipynb*')
+
+Primeiro projeto do curso Cientísta de Dados da EBAC. Classificação de possíveis inadimplêntes em uma base de créditos usando Decision Tree.
+
+- Projeto 2 - Regressão com Decision Tree ('*preojeto-2.ipynb*')
+
+Segundo projeto do curso Cientista de Dados da EBAC. Contrução de um projeto com análise estatística e regressão com Decision Tree para previsão da renda, utilizando a metodologia Crisp-DM.
+
+---
+
+### Projeto Final - Cientista de Dados EBAC:
+
+* Arquivos ('Mod38Projeto.ipynb')
+
+Este projeto foi produzido, entregue e avaliado como projeto final do curso Cientista de Dados da EBAC, o projeto é subdividio nas seguintes etapas:
+
+  - Análise estatística das variáveis, avaliação de WOE e Information Value no tempo, análise descritíva e modelagem estatística com regressão logística para identificar possíveis inadimplêntes.
+  - Construção de uma pipeline para limpeza e transformações nos dados para aplicação de Machine Learning.
+  - Automatização de Machine Learning com Pycaret.
+  - Construção e deploy de uma aplicação de automatização de ML dos processos com Pycaret e Streamlit
+
+A última etapa desenvolvida no curso serviu de base para a construção do projeto "Auto Machine Learning app".
+
