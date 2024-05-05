@@ -7,6 +7,8 @@ Esta repositório é dedicada a criação do meu portfolio em ciência de dados.
 
 * Arquivos ( 'RFV.ipynb', 'RFV.py', 'dados.csv')
 
-Este projeto visa realizar uma segmentação de dados de clientes utilizando o RFV. O projeto também consta com a criação de uma aplicação contruída com Streamlit. O deploy da aplicação foi feita usando o Render de forma gratuita.
+Este projeto visa realizar uma segmentação de dados de clientes utilizando o RFV com Python. O objetivo do projeto é utilizar uma regra (RFV) para agrupar clientes em grupos, possibilitando uma análise (ou tomada de decisão/ação de marketing) customizada por grupos.
+
+O projeto também consta com a criação de uma aplicação contruída com Streamlit que permite carregar dados e fazer o download dos dados com os agrupamentos. O deploy da aplicação foi feita usando o Render de forma gratuita.
 
 link da aplicação: https://app-rfv-wc1j.onrender.com
