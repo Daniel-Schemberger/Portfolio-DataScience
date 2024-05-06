@@ -28,6 +28,15 @@ Devido a desatualizações da biblioteca pycaret (que automatiza os processos de
 link da aplicação: https://app-rfv-wc1j.onrender.com
 
 ---
+### Classificação Multiclasse:
+
+* Arquivos ('*Projeto Semantix.ipynb*', '*info.markdown*')
+
+Este projeto foi desenvolvido ao longo do curso Cientista de Dados da EBAC em parceria com a Semantix. O projeto foi construído usando a metodologia CRISP-DM. 
+
+O objetivo do projeto era construir um modelo de classificação multiclasse para classificação de categorias de motocicletas. Contendo comparação de modelos, tunning e validação do modelo.
+
+---
 
 ### Projetos EBAC:
 
