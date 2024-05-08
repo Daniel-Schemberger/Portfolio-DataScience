@@ -37,7 +37,13 @@ Este projeto foi desenvolvido ao longo do curso Cientista de Dados da EBAC em pa
 O objetivo do projeto era construir um modelo de classificação multiclasse para classificação de categorias de motocicletas. Contendo comparação de modelos, tunning e validação do modelo.
 
 ---
+### Regressão e Modelagem Estatística:
 
+* Arquivos ('*ds_salaries.ipynb*')
+  
+Modelagem estatística para construção de um modelo de regressão para previsão de salários na área de dados utilizando a biblioteca Statsmodels.
+
+---
 ### Projetos EBAC:
 
 Esta pasta armazena os principais projetos desenvolvidos ao longo do curso Centista de Dados da EBAC.
