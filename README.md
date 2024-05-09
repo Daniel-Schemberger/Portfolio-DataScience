@@ -44,6 +44,13 @@ O objetivo do projeto era construir um modelo de classificação multiclasse par
 Modelagem estatística para construção de um modelo de regressão para previsão de salários na área de dados utilizando a biblioteca Statsmodels.
 
 ---
+### Clusterização de Clientes:
+
+* Arquivos ('*credito_cluster.ipynb*')
+  
+Neste projeto é analisado uma base de dados de aplicações de crédito, com objetivo de realizar uma clusterização com K-Means para classificar diferentes perfi para identificação de características únicas de cada grupo.
+
+---
 ### Projetos EBAC:
 
 Esta pasta armazena os principais projetos desenvolvidos ao longo do curso Centista de Dados da EBAC.
