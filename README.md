@@ -28,6 +28,13 @@ Devido a desatualizações da biblioteca pycaret (que automatiza os processos de
 link da aplicação: https://app-rfv-wc1j.onrender.com
 
 ---
+### Classificação de Imagens com Redes Neurais Convolucionais:
+
+* Arquivos ('*VeicClass.ipynb*')
+
+Neste projeto é abordado a construção de redes neurais convolucionais (CNN) para classificação multiclasse de imagens de diversas classes de veículos usando o TensorFlow.
+
+---
 ### Classificação Multiclasse:
 
 * Arquivos ('*Projeto Semantix.ipynb*', '*info.markdown*')
@@ -49,6 +56,13 @@ Modelagem estatística para construção de um modelo de regressão para previs�
 * Arquivos ('*credito_cluster.ipynb*')
   
 Neste projeto é analisado uma base de dados de aplicações de crédito, com objetivo de realizar uma clusterização com K-Means para classificar diferentes perfi para identificação de características únicas de cada grupo.
+
+---
+### Pipelines e Pré Processamento de Dados:
+
+* Arquivos ('*prep.ipynb*')
+
+Este projeto visa abordar algumas etapas usuais de limpeza de dados, seja para análises estatísticas dos dados ou preparar os dados para servirem de input para a maioria dos modelos de Machine Learning.
 
 ---
 ### Projetos EBAC:
