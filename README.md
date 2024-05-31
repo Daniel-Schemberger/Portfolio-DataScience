@@ -2,6 +2,18 @@
 
 Esta repositório é dedicado a criação do meu portfolio em ciência de dados. O portfolio conta com projetos gerais, desde webscrapping, análise e visualização de dados até projetos completos de machine learning e criação de aplicações voltadas a ciência de dados!
 
+ ---
+### Workana Freelance 1 (Projeto Epeixão):
+
+* Arquivos ( '*app.py*', '*df.csv*')
+
+O objetivo principal do projeto é desenvolver uma aplicação que carrega dados (e imagens) do Google Drive do cliente. Esses dados representam serviços de agendamento e locação de barcos para pescaria. A aplicação permite que o usuário estabeleça filtros personalizados e gere propostas com base nos serviços filtrados!
+
+A versão armazenada no portfolio utiliza uma amostra dos dados da planilha do cliente.
+
+link da aplicação: [https://app-rfv-wc1j.onrender.com](https://portfolio-datascience.onrender.com)
+
+
 ---
 ### Segmentação de Dados:
 
