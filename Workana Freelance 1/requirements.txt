@@ -1,0 +1,16 @@
+streamlit==1.33.0
+pandas==2.1.4
+gspread==6.1.2
+numpy==1.26.3
+oauth2client==4.1.3
+xlsxWriter==3.2.0
+reportlab==4.2.0
+google==3.0.0
+google-api-core==2.19.0
+google-api-python-client==2.131.0
+google-auth==2.29.0
+google-auth-httplib2==0.2.0
+google-auth-oauthlib==1.2.0
+google-pasta==0.2.0
+googleAPI==0.1.0
+googleapis-common-protos==1.63.0
